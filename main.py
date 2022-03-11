@@ -23,14 +23,12 @@ headers = {
     'sec-ch-ua-platform': '"Windows"',
     'upgrade-insecure-requests': '1',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     'sec-fetch-site': 'same-origin',
     'sec-fetch-mode': 'navigate',
     'sec-fetch-user': '?1',
     'sec-fetch-dest': 'document',
     'referer': 'https://en.bidfax.info/',
     'accept-language': 'tr,en;q=0.9,en-GB;q=0.8,en-US;q=0.7',
-    'cookie': '_ga=GA1.2.1644291859.1645290018; __gads=ID=1706e4249a699414-22a1c3a647cd00a1:T=1645290017:RT=1645290017:S=ALNI_MaS-8NIZUUrEy4xGpxR253xQeKHmQ; FORT=9157b1f9f191efc41560e6fad3bfdea5; PHPSESSID=501591f347f60df08c84ca6364623c88; _gid=GA1.2.974845080.1646811783',
 }
 
 for pagenumber in range(1,99):
